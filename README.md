@@ -6,7 +6,7 @@ LizaGo is a token for friends of Yobit's Bitcoin Liza
 -----
 
 
-![logo](https://cdn.pbrd.co/images/H7sKGhq.png)
+![logo](https://cdn.pbrd.co/images/H7twqyY.png)
 
 
 -----
@@ -53,7 +53,8 @@ To add LizaGo to your Eth wallet, it is recommended that you use [MyEtherWwallet
 On the right-hand side, you will see:
 
 
-![TokenBalances](https://cdn.pbrd.co/images/H7sUqUJ.png)
+
+![TokenBalances](https://cdn.pbrd.co/images/H7tsK3H.png)
 
 
 
@@ -76,6 +77,13 @@ On the right-hand side, you will see:
 > 
 > 
 > Then press "save"
+
+
+-----
+
+
+
+
 
 
 
