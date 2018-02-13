@@ -15,8 +15,6 @@ Contract Name:	LizaGo
 
 Compiler Version:	v0.4.19+commit.c4cbbb05
 
------
-
 Contract Creator
 [0xcc82aa390d5467f53cb91aaa799a9a6bc898cc59](https://etherscan.io/address/0xcc82aa390d5467f53cb91aaa799a9a6bc898cc59)
 
@@ -34,7 +32,12 @@ Contract
 
 -----
 
-1,000,000,000 LGO
+
+# Total Tokens 
+
+
+1,000,000,000 LGO (no more can be minted)
+
 
 
 -----
