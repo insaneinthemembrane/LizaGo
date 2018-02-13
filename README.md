@@ -40,6 +40,9 @@ Contract
 -----
 
 
+# Getting LizaGo (for now)
+
+
 [EtherDelta Exchange](https://etherdelta.com/#0x1a5d62355fdf317877c45f47da357f1ed64e4d61-ETH)
 
 
