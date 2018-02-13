@@ -11,6 +11,9 @@ LizaGo is a token for friends of Yobit's Bitcoin Liza
 
 -----
 
+# Contract Details
+
+
 Contract Name:	LizaGo
 
 Compiler Version:	v0.4.19+commit.c4cbbb05
@@ -83,18 +86,20 @@ On the right-hand side, you will see:
 > 
 > 
 > Then press "save"
-
+>
+> LizaGo is now added to your myetherwallet. You can see it by clicking on the main wallet's "Amount to Send" dropdown box. > 
+> It will say "LGO".
+>
 
 -----
 
 
-
+# Note Well on Gas
 
 
 
 >
-> LizaGo is now added to your myetherwallet. You can see it by clicking on the main wallet's "Amount to Send" dropdown box. It will say "LGO".
+>**Be aware, there are different gas requirements for ERC20 tokens than there are to ETH itself. Be sure to use enough gas when sending an LGO transaction.**
 >
->
->*Be aware, there are different gas requirements for ERC20 tokens than there are to ETH itself. Be sure to use enough gas when sending an LGO transaction.*
->
+
+-----
