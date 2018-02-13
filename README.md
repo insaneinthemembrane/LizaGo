@@ -39,7 +39,9 @@ Contract
 # Total Tokens 
 
 
-1,000,000,000 LGO (no more can be minted)
+1,000,000,000 LGO (no more can be minted ever)
+
+Of that 1,000,000,000, only 2,000,000 (2%) are for public sale. The remaining 98,000,000 are set aside to pay investors interest daily (see below)
 
 
 
@@ -49,8 +51,13 @@ Contract
 # Getting LizaGo (for now)
 
 
-[EtherDelta Exchange](https://etherdelta.com/#0x1a5d62355fdf317877c45f47da357f1ed64e4d61-ETH)
+Buy LizaGo at [Etherdelta](https://etherdelta.com/#0x1a5d62355fdf317877c45f47da357f1ed64e4d61-ETH)
 
+The cost for 1 LizaGo (LGO) is just 0.00003000 ETH. **Only 2,000,000 (2%) are for sale**. Buying LizaGo now will help towards paying **Yobit Exchange for a listing at the "Exclusive" rate**.
+
+> Upon Yobit listing LisaGo, the remaining tokens, approximately 98,000,000, will be locked in InvestBox. The rate of daily interest will be 6%, which means that LisaGo will have sufficient funds to pay her investors for 5-6 months, given her token count in real terms (available tokens) is only 2,000,000.
+
+**No more LizaGo will minted during and after this process, making the token a solid investment.**
 
 
 ------
