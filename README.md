@@ -3,6 +3,20 @@
 LizaGo is a token for friends of Yobit's Bitcoin Liza 
 
 
+<p><div class="toc">
+<ul>
+<li><a href="#lizago-lgo">LizaGo (LGO)</a></li>
+<li><a href="#contract-details">Contract Details</a></li>
+<li><a href="#total-tokens">Total Tokens</a></li>
+<li><a href="#getting-lizago-for-now">Getting LizaGo (for now)</a></li>
+<li><a href="#adding-lizago-to-myetherwallet">Adding LizaGo to myetherwallet</a></li>
+<li><a href="#note-well-on-gas">Note Well on Gas</a></li>
+</ul>
+</div>
+</p>
+
+
+
 -----
 
 
