@@ -51,7 +51,7 @@ Contract
 
 # Adding LizaGo to myetherwallet
 
-To add LizaGo to your Eth wallet, it is recommended that you use [MyEtherWwallet](https://myetherwallet.com). If you have not created a wallet there simply sign up, and back-up your wallet.
+To add LizaGo to your Eth wallet, it is recommended that you use [MyEtherWallet](https://myetherwallet.com). If you have not created a wallet there simply sign up, and back-up your wallet.
 
 On the right-hand side, you will see:
 
@@ -89,8 +89,9 @@ On the right-hand side, you will see:
 
 
 
-
-LizaGo is now added to your myetherwallet. You can see it by clicking on the main wallet's "Amount to Send" dropdown box. It will say "LGO".
-
-
-*Be aware, there are different gas requirements for ERC20 tokens than there are to ETH itself. Be sure to use enough gas when sending an LGO transaction.*
+>
+> LizaGo is now added to your myetherwallet. You can see it by clicking on the main wallet's "Amount to Send" dropdown box. It will say "LGO".
+>
+>
+>*Be aware, there are different gas requirements for ERC20 tokens than there are to ETH itself. Be sure to use enough gas when sending an LGO transaction.*
+>
