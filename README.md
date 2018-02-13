@@ -59,23 +59,24 @@ On the right-hand side, you will see:
 
 
 > **Click: Add Custom Token**
-
+> 
 > Three text boxes will appear. **This is the  information you need:**
-
+> 
 > **Box 1 (Contract Address)** 
-
+> 
 > 0x1a5d62355fdf317877c45f47da357f1ed64e4d61
-
+> 
 > **Box 2 (Token Symbol)** 
-
+> 
 > LGO
-
+> 
 > **Box 3 (Number of Decimals)** 
-
+> 
 > 18
-
-
+> 
+> 
 > Then press "save"
+
 
 
 LizaGo is now added to your myetherwallet. You can see it by clicking on the main wallet's "Amount to Send" dropdown box. It will say "LGO".
