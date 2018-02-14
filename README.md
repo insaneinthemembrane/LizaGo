@@ -56,7 +56,7 @@ Contract
 
 1,000,000,000 LGO (no more can be minted ever)
 
-Of that 1,000,000,000, only 2,000,000 (2%) are for public sale. The remaining 98,000,000 are set aside to pay investors interest daily (see below)
+Of that 1,000,000,000, only 2,000,000 (2%) are for public sale. The remaining 998,000,000 are set aside to pay investors interest daily (see below)
 
 
 
