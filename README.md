@@ -72,7 +72,7 @@ Please note, EtherDelta is not particularly fast, and refreshing your browser a 
 
 The cost for 1 LizaGo (LGO) is just 0.00003000 ETH. **Only 2,000,000 (2%) are for sale**. Buying LizaGo now will help towards paying **Yobit Exchange for a listing at the "Exclusive" rate**.
 
-> Upon Yobit listing LisaGo, the remaining tokens, approximately 98,000,000, will be locked in InvestBox. The rate of daily interest will be 6%, which means that LisaGo will have sufficient funds to pay her investors for 5-6 months.
+> Upon Yobit listing LisaGo, the remaining tokens, approximately 998,000,000, will be locked in InvestBox. The rate of daily interest will be 6%, which means that LisaGo will have sufficient funds to pay her investors for 5-6 months.
 
 **No more LizaGo will minted during and after this process, making the token a solid investment.**
 
