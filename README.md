@@ -31,7 +31,7 @@ LizaGo is a token for friends of Yobit's Bitcoin Liza
 
 LizaGo Shelved!
 
-**I have decided to shelve the LizaGo, mainly becaiuse although it is an amazing idea, there is a Liza Elite supposedly coming, so an account on Titter says. How many Lizas do we need? I am not convinced by "Elite", the story sounds fake, but best to avoid getting involved at this time.**
+**I have decided to shelve the LizaGo project, mainly becaiuse although it is an amazing idea, there is a Liza Elite supposedly coming, so an account on Titter says. How many Lizas do we need? I am not convinced by "Elite", the story sounds fake, but best to avoid getting involved at this time.**
 
 **The below is of use only if I decide to release LizaGo, in which case this section will not be here.**
 
